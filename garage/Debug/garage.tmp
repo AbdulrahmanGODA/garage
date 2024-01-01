@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Programs 2\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>E:\Programs 2\AtmelStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Programs 2\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>E:/Programs 2\AtmelStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\Debug\garage.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>garage.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>garage.map</FILE>
+  <FILE>garage.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>21</LINE></main>
+  <externalISR0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>45</LINE></externalISR0>
+  <externalISR1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>73</LINE></externalISR1>
+  <LCD_INIT><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>235</LINE></LCD_INIT>
+  <D_vehicle><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>139</LINE></D_vehicle>
+  <CMNDWRT><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>104</LINE></CMNDWRT>
+  <DATAWRT><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>122</LINE></DATAWRT>
+  <INT_INIT><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>224</LINE></INT_INIT>
+  <HERE><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>42</LINE></HERE>
+  <DELAY_2ms><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>277</LINE></DELAY_2ms>
+  <False0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>61</LINE></False0>
+  <True0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>58</LINE></True0>
+  <Here0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>65</LINE></Here0>
+  <End0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>66</LINE></End0>
+  <False1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>89</LINE></False1>
+  <True1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>86</LINE></True1>
+  <Here1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>93</LINE></Here1>
+  <End1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>99</LINE></End1>
+  <Full><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>174</LINE></Full>
+  <SDELAY><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>263</LINE></SDELAY>
+  <DELAY_100us><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>268</LINE></DELAY_100us>
+  <DR0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>271</LINE></DR0>
+  <LDR0><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>280</LINE></LDR0>
+  <DELAY_1s><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>286</LINE></DELAY_1s>
+  <LOOP3><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>288</LINE></LOOP3>
+  <LOOP2><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>289</LINE></LOOP2>
+  <LOOP1><FILE>E:\300\#2 ECO335 Group1 MicroController\Microchip_Projects\garage\garage\main.asm</FILE><LINE>290</LINE></LOOP1>
+ </LABELS>
+</ASSEMBLER_INFO>
